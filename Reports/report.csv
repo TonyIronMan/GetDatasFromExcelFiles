@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Basic Test Suite,Chrome 58.0.3029.96,,2017-05-15 08:26:44,2017-05-15 08:27:20,35.761s,FAILED
+,,,,,,
+Test Cases/BasicTestCase,Chrome 58.0.3029.96,This is a demo for basic test case,2017-05-15 08:26:45,2017-05-15 08:27:20,34.778s,FAILED
+openBrowser,Chrome 58.0.3029.96,,2017-05-15 08:26:46,2017-05-15 08:27:15,28.927s,PASSED
+setText,Chrome 58.0.3029.96,,2017-05-15 08:27:15,2017-05-15 08:27:17,2.078s,PASSED
+setText,Chrome 58.0.3029.96,,2017-05-15 08:27:17,2017-05-15 08:27:18,1.008s,PASSED
+click,Chrome 58.0.3029.96,,2017-05-15 08:27:18,2017-05-15 08:27:19,0.518s,PASSED
+Statement - errormessage = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/MessageObject)),Chrome 58.0.3029.96,,2017-05-15 08:27:19,2017-05-15 08:27:20,1.011s,PASSED
+verifyEqual,Chrome 58.0.3029.96,,2017-05-15 08:27:20,2017-05-15 08:27:20,0.128s,FAILED

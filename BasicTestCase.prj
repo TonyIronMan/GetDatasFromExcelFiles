@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>This is a demo create a basic test case</description>
+   <name>BasicTestCase</name>
+   <tag></tag>
+   <UUID>da5dd60d-1a7f-4295-a427-60b59ded7069</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
